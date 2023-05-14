@@ -1,3 +1,4 @@
+//Saya Nezrin
 #include<stdio.h>
 #include<stdlib.h>
 void selectionsort(int a[25],int n)
