@@ -1,3 +1,4 @@
+//c
 #include<stdio.h>
 int A[20],size,front,rear;
 void PUSH_DQ(int item)
