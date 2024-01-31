@@ -1,7 +1,5 @@
 #include<stdio.h>
-
 #include<stdlib.h>
-
 #define Size 4
 
 int Top=-1, inp_array[Size];
